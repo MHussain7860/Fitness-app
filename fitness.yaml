@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: fitnesscontainer
-        image: malikhussain/fitness:v10
+        image: malikhussain/fitness:v300
         ports:
         - containerPort: 80
 ---
